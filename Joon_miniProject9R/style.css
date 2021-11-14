@@ -1,0 +1,29 @@
+#hed1{
+  color: black;
+  font-size: 50px;
+}
+
+.box1 {
+
+  width: 600px;
+  height: 300px;
+  margin: 50px auto;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+.box2 {
+
+  width: 600px;
+  height: 1650px;
+  margin: 50px auto;
+  text-align: center;
+
+}
+.box3 {
+
+  width: 600px;
+  height: 1650px;
+  margin: 50px auto;
+  text-align: center;
