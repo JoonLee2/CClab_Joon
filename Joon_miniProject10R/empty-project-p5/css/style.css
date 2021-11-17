@@ -1,0 +1,98 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-green-simple-solid-color-background-image_557101.jpg");
+}
+
+
+
+
+
+canvas {
+  display: block;
+  position:absolute;
+  left: 300px;
+  top: 100px;
+}
+
+
+.box1 {
+
+  width: 750px;
+  height: 300px;
+
+  text-align: right;
+  font-size: 30px;
+}
+
+
+ .background1 {
+
+   position:absolute;
+   right: 350px;
+   top: 80px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+
+
+ }
+
+
+ .hair {
+
+   position:absolute;
+   right: 100px;
+   top: 140px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+
+ }
+
+
+
+ .body {
+
+   position:absolute;
+   right: 100px;
+   top: 200px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+ }
+
+ .nose {
+
+   position:absolute;
+   right: 100px;
+   top: 260px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+ }
+
+
+
+
+
+ .feet {
+
+   position:absolute;
+   right: 100px;
+   top: 320px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+ }
+
+
+ .arms {
+
+   position:absolute;
+   right: 100px;
+   top: 380px;
+   width:200px
+   height: 100px
+   padding: 10px 0px 10px 60px
+ }
