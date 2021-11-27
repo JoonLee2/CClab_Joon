@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://media.istockphoto.com/vectors/abstract-blurred-colorful-background-vector-id1248542684?k=20&m=1248542684&s=612x612&w=0&h=1yKiRrtPhiqUJXS_yJDwMGVHVkYRk2pJX4PG3TT4ZYM=");
+  background-size: cover;
+}
+
+canvas {
+
+  display: block;
+  position:absolute;
+  left: 450px;
+  top: 100px;
+}
+
+.RGB {
+
+  width: 1550px;
+  text-align: center;
+  font-size: 30px;
