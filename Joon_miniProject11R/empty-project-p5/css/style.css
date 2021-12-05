@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-image: url("https://media.istockphoto.com/vectors/abstract-blurred-colorful-background-vector-id1248542684?k=20&m=1248542684&s=612x612&w=0&h=1yKiRrtPhiqUJXS_yJDwMGVHVkYRk2pJX4PG3TT4ZYM=");
+  background-image: url("https://cdn.pixabay.com/photo/2020/05/29/07/27/abstract-5234092__340.jpg");
   background-size: cover;
 }
 
@@ -18,3 +18,4 @@ canvas {
   width: 1550px;
   text-align: center;
   font-size: 30px;
+}
